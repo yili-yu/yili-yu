@@ -1,10 +1,8 @@
-# 李一航 / Yili
+# Yili
 
-独立研究者与写作者。
+Independent researcher and writer.
 
-我主要关注哲学、人工智能与认知、社会结构、文化研究，以及不同思想传统之间的比较与校准。
-
-目前正在整理个人研究材料、文章与长期写作项目。本主页将用于发布公开文本、项目说明和个人网站更新。
+My work focuses on philosophy, artificial intelligence and cognition, social and cultural theory, and comparative intellectual traditions. This profile is used to organize selected public writings, research notes, and ongoing projects.
 
 ## Research interests
 
@@ -12,13 +10,13 @@
 - Artificial intelligence and cognition
 - Social and cultural theory
 - Comparative thought
-- Writing, interpretation and conceptual analysis
+- Writing, interpretation, and conceptual analysis
 
 ## Current work
 
-- 整理个人研究档案与公开文章
-- 建设个人学术网站
-- 研究人工智能认知过程及其理论边界
+- Organizing long-form research and public essays
+- Building a personal academic website
+- Studying artificial intelligence, cognition, and their theoretical boundaries
 
 ## Contact
 
