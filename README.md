@@ -1,16 +1,25 @@
-## Hi there 👋
+# 李一航 / Yili
 
-<!--
-**yili-yu/yili-yu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+独立研究者与写作者。
 
-Here are some ideas to get you started:
+我主要关注哲学、人工智能与认知、社会结构、文化研究，以及不同思想传统之间的比较与校准。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+目前正在整理个人研究材料、文章与长期写作项目。本主页将用于发布公开文本、项目说明和个人网站更新。
+
+## Research interests
+
+- Philosophy and intellectual history
+- Artificial intelligence and cognition
+- Social and cultural theory
+- Comparative thought
+- Writing, interpretation and conceptual analysis
+
+## Current work
+
+- 整理个人研究档案与公开文章
+- 建设个人学术网站
+- 研究人工智能认知过程及其理论边界
+
+## Contact
+
+GitHub: [@yili-yu](https://github.com/yili-yu)
