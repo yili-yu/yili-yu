@@ -1,4 +1,4 @@
-# Yili
+# Li Yihang/Yili
 
 Independent researcher and writer.
 
